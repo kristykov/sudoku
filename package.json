@@ -16,7 +16,9 @@
     "url": "https://github.com/rolling-scopes-school/sudoku/issues"
   },
   "devDependencies": {
-    "mocha": "^3.2.0"
+    "chai": "^4.2.0",
+    "mocha": "^3.5.3"
   },
-  "homepage": "https://github.com/rolling-scopes-school/sudoku#readme"
+  "homepage": "https://github.com/rolling-scopes-school/sudoku#readme",
+  "keywords": []
 }
